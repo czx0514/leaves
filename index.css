@@ -42,7 +42,7 @@ html,body{
 		-webkit-transform: translate(0px,-50px);
 	}
 	100%{
-		-webkit-transform: translate(0,700px);
+		-webkit-transform: translate(0px,1000px);
 	}
 }
 @-webkit-keyframes leftRotation{
